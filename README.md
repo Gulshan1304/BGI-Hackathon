@@ -32,6 +32,6 @@ AI-based system to classify,prioritizes, and track citizen complaints for faster
 ## Team Members
 1. Gulshan Rahangdale
 2. Pranay Talware
-3. tanisha Chouhan
+3. Tanisha Chouhan
 4. Tushar Rahangdale
    
